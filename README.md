@@ -24,8 +24,9 @@ MySQL Workbench GUI is a Java Swing application that provides a graphical interf
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/mysql-workbench-gui.git
-2.Compile the java files
+2.Compile the java files and Run
+   ```sh
   cd mysql-workbench-gui/src
   javac mygroup/workbench/*.java
-3.Run the file 
-  java mygroup.workbench.WorkBench
+  java mygroup.workbench.HomePage
+
